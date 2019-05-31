@@ -1,4 +1,3 @@
 Text 
 Add new line
-mobi add line
-second new line is addded
+second line added
