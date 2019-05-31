@@ -1,4 +1,8 @@
 Text 
 Add new line
+<<<<<<< HEAD
 linh added
 linh added
+=======
+mobi add line
+>>>>>>> cf93606bc08d4c9e53924d61a661f5309923587b
